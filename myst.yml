@@ -1,0 +1,64 @@
+version: 1
+project:
+  title: DATA 88C Materials
+  description: Public lab and lecture notebooks for DATA 88C Computational Structures
+    in Data Science, UC Berkeley edX xSeries
+  authors:
+  - name: DATA 88C Course Staff
+  github: edx-berkeley/88C-student
+  license: CC-BY-NC-4.0
+  jupyter:
+    binder:
+      repo: edx-berkeley/88C-student
+      ref: main
+      url: https://mybinder.org
+    kernelName: python3
+  exclude:
+  - README.md
+  - LICENSE.md
+  toc:
+  - file: intro.md
+  - title: Part 1 — Functions and Control
+    children:
+    - title: Labs
+      children:
+      - title: 'Lab 0: Getting Started'
+        file: lab/1/lab00/lab00.ipynb
+      - title: 'Lab 1: Functions'
+        file: lab/1/lab01/lab01.ipynb
+      - title: 'Lab 2: Control'
+        file: lab/1/lab02/lab02.ipynb
+      - title: 'Lab 3: Higher-Order Functions'
+        file: lab/1/lab03/lab03.ipynb
+  - title: Part 2 — Abstraction and Recursion
+    children:
+    - title: Labs
+      children:
+      - title: 'Lab 4: Abstract Data Types'
+        file: lab/2/lab04/lab04.ipynb
+      - title: 'Lab 5: Recursion'
+        file: lab/2/lab05/lab05.ipynb
+      - title: 'Lab 6: Recursion and Tree Recursion'
+        file: lab/2/lab06/lab06.ipynb
+      - title: 'Lab 7: Object-Oriented Programming'
+        file: lab/2/lab07/lab07.ipynb
+  - title: Part 3 — Objects, Trees, and SQL
+    children:
+    - title: Labs
+      children:
+      - title: 'Lab 8: Inheritance + Linked Lists'
+        file: lab/3/lab08/lab08.ipynb
+      - title: 'Lab 9: Trees'
+        file: lab/3/lab09/lab09.ipynb
+      - title: 'Lab 10: Iterators and Generators'
+        file: lab/3/lab10/lab10.ipynb
+      - title: 'Lab 11: SQL'
+        file: lab/3/lab11/lab11.ipynb
+site:
+  template: book-theme
+  options:
+    favicon: favicon.ico
+    logo_text: DATA 88C Materials
+    hide_authors: true
+    hide_myst_branding: true
+    hide_outline: false
