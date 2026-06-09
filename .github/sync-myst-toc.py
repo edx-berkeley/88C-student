@@ -25,9 +25,9 @@ EXIT_SUCCESS = 0
 EXIT_ERROR = 2
 
 PART_TITLES = {
-    "1": "Part 1 — Functions and Control",
-    "2": "Part 2 — Abstraction and Recursion",
-    "3": "Part 3 — Objects, Trees, and SQL",
+    "1": "Part 1 - Introduction to Python",
+    "2": "Part 2 - Recursion and Object-Oriented Programming",
+    "3": "Part 3 - Working with Data Structures",
 }
 
 TITLE_PATTERNS = [

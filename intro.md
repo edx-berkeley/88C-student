@@ -4,9 +4,9 @@ Welcome to **DATA 88C: Computational Structures in Data Science** lab and lectur
 
 This book contains Jupyter notebooks for all three parts of the course:
 
-- **Part 1 — Functions and Control:** getting started, functions, control flow, and higher-order functions
-- **Part 2 — Abstraction and Recursion:** abstract data types, recursion, tree recursion, and object-oriented programming
-- **Part 3 — Objects, Trees, and SQL:** inheritance, linked lists, trees, iterators, generators, and SQL
+- **Part 1 - Introduction to Python:** getting started, functions, control flow, and higher-order functions
+- **Part 2 - Recursion and Object-Oriented Programming:** abstract data types, recursion, tree recursion, and object-oriented programming
+- **Part 3 - Working with Data Structures:** inheritance, linked lists, trees, iterators, generators, and SQL
 
 Use the sidebar to navigate to a lab or lecture. To run notebooks interactively, open them in JupyterLab or use the "Run in Binder" link above.
 

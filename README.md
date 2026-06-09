@@ -6,9 +6,9 @@ This repository mirrors the [Data 8 materials-sp26](https://github.com/data-8/ma
 
 ## Contents
 
-- **Part 1** (`lab/1/`, `lec/1/`): 4 labs — getting started through higher-order functions
-- **Part 2** (`lab/2/`, `lec/2/`): 4 labs — abstract data types through object-oriented programming
-- **Part 3** (`lab/3/`, `lec/3/`): 4 labs — inheritance through SQL
+- **Part 1 - Introduction to Python** (`lab/1/`, `lec/1/`): 4 labs — getting started through higher-order functions
+- **Part 2 - Recursion and Object-Oriented Programming** (`lab/2/`, `lec/2/`): 4 labs — abstract data types through object-oriented programming
+- **Part 3 - Working with Data Structures** (`lab/3/`, `lec/3/`): 4 labs — inheritance through SQL
 
 Student-facing notebooks are sourced from the course authoring pipeline into this repository.
 

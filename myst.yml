@@ -18,7 +18,7 @@ project:
   - LICENSE.md
   toc:
   - file: intro.md
-  - title: Part 1 — Functions and Control
+  - title: Part 1 - Introduction to Python
     children:
     - title: Labs
       children:
@@ -30,7 +30,7 @@ project:
         file: lab/1/lab02/lab02.ipynb
       - title: 'Lab 3: Higher-Order Functions'
         file: lab/1/lab03/lab03.ipynb
-  - title: Part 2 — Abstraction and Recursion
+  - title: Part 2 - Recursion and Object-Oriented Programming
     children:
     - title: Labs
       children:
@@ -42,7 +42,7 @@ project:
         file: lab/2/lab06/lab06.ipynb
       - title: 'Lab 7: Object-Oriented Programming'
         file: lab/2/lab07/lab07.ipynb
-  - title: Part 3 — Objects, Trees, and SQL
+  - title: Part 3 - Working with Data Structures
     children:
     - title: Labs
       children:
